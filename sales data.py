@@ -114,3 +114,6 @@ are countries and states that generating large amount of revenue.
 
 AVERAGE REVENUE PER SALE: Accessories have the highest average revenue per sale, followed
 by bikes and clothing respectively. """
+
+Datasource: www.kaggle.com
+Visualization: https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/E-commercesalesanalysis_16924077581270/E-commerceSales?publish=yes
